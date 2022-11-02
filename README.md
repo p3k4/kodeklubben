@@ -1,5 +1,5 @@
 # kodeklubben
-## Mine besvarelser på oppgaver fra kidsakoder.no - innen web og python.
+## Oppgaver fra kidsakoder.no - innen HTML, CSS, Javascript og Python.
 
 **Introduksjon HTML/CSS (nivå 1-2).**
 - [ ] HTML : Vi bygger en hjemmeside [Oppgaver.](https://oppgaver.kidsakoder.no/web/en_hjemmeside/en_hjemmeside)
