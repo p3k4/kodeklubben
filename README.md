@@ -1,7 +1,7 @@
 # kodeklubben
-Mine besvarelser på oppgaver fra kidsakoder.no - innen web og python.
+## Mine besvarelser på oppgaver fra kidsakoder.no - innen web og python.
 
-Introduksjon, (nivå 1-2).
+**Introduksjon, (nivå 1-2).**
 
 - [ ] HTML - Vi bygger en hjemmeside [Oppgaver.](https://oppgaver.kidsakoder.no/web/en_hjemmeside/en_hjemmeside)
 - [ ] HTML - Hvor er HTML? [Oppgaver.](https://oppgaver.kidsakoder.no/web/hvor_er_html/hvor_er_html)
