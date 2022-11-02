@@ -26,3 +26,12 @@
 **Ekspert (nivå 3)**
 - [ ] : Lag din egen nettside [Oppgaver](https://oppgaver.kidsakoder.no/web/din_egen_nettside/din_egen_nettside)
 - [ ] : Layout [Oppgaver](https://oppgaver.kidsakoder.no/web/layout/layout)
+
+** Python (Nivå 1-2) **
+- [ ] - Bokstaver [Oppgaver.](https://oppgaver.kidsakoder.no/python/bokstaver/bokstaver)
+- [ ] - Kuprat [Oppgaver.](https://oppgaver.kidsakoder.no/python/kuprat/kuprat)
+- [ ] - Skilpadder [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpadder/skilpadder)
+- [ ] - Soteringsalgoritme [Oppgaver.](https://oppgaver.kidsakoder.no/python/feilsoking-sorteringsalgoritme/feilsoking-sorteringsalgoritme)
+- [ ] - Hemmelige koder [Oppgaver.](https://oppgaver.kidsakoder.no/python/hemmelige_koder/hemmelige_koder)
+- [ ] - Hvor gammel er du [Oppgaver.](https://oppgaver.kidsakoder.no/python/hvor_gammel_er_du/hvor_gammel_er_du)
+- [ ] 
