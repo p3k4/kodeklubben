@@ -19,15 +19,15 @@
 - [ ] - Lenk sammen nettsiden [Oppgaver.](https://oppgaver.kidsakoder.no/web/lenk_sammen_nettsider/lenk_sammen_nettsider)
 - [ ] - Legg til lyd og video [Oppgaver.](https://oppgaver.kidsakoder.no/web/lyd_og_video/lyd_og_video)
 - [ ] - Partikkel fest [Oppgaver.](https://oppgaver.kidsakoder.no/web/partikkel_2/partikkel_2)
-- [ ] - Partikkel gravitasjon [Oppgaver](https://oppgaver.kidsakoder.no/web/partikkel_gravitasjon/partikkel_gravitasjon)
-- [ ] - Publiser nettsiden din [Oppgaver](https://oppgaver.kidsakoder.no/web/publiser/publiser)
-- [ ] - Sjul ninjaene [Oppgaver](https://oppgaver.kidsakoder.no/web/skjul_ninjaene/skjul_ninjaene)
+- [ ] - Partikkel gravitasjon [Oppgaver.](https://oppgaver.kidsakoder.no/web/partikkel_gravitasjon/partikkel_gravitasjon)
+- [ ] - Publiser nettsiden din [Oppgaver.](https://oppgaver.kidsakoder.no/web/publiser/publiser)
+- [ ] - Sjul ninjaene [Oppgaver.](https://oppgaver.kidsakoder.no/web/skjul_ninjaene/skjul_ninjaene)
 
 **Ekspert (nivå 3)**
-- [ ] : Lag din egen nettside [Oppgaver](https://oppgaver.kidsakoder.no/web/din_egen_nettside/din_egen_nettside)
-- [ ] : Layout [Oppgaver](https://oppgaver.kidsakoder.no/web/layout/layout)
+- [ ] : Lag din egen nettside [Oppgaver.](https://oppgaver.kidsakoder.no/web/din_egen_nettside/din_egen_nettside)
+- [ ] : Layout [Oppgaver.](https://oppgaver.kidsakoder.no/web/layout/layout)
 
-**Python (Nivå 1-2)**
+**Python (nivå 1-2)**
 - [ ] - Bokstaver [Oppgaver.](https://oppgaver.kidsakoder.no/python/bokstaver/bokstaver)
 - [ ] - Kuprat [Oppgaver.](https://oppgaver.kidsakoder.no/python/kuprat/kuprat)
 - [ ] - Skilpadder [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpadder/skilpadder)
@@ -39,4 +39,24 @@
 - [ ] - Skilpaddekunst [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpaddekunst/skilpaddekunst)
 - [ ] - Skilpadde skolen [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpaddeskolen/skilpaddeskolen)
 - [ ] - Stjerner og galakser [Oppgaver.](https://oppgaver.kidsakoder.no/python/stjerner_og_galakser/stjerner_og_galakser)
-- [ ] 
+
+**Erfaren Python (nivå 3)**
+- [ ] : Diffie-hellman [Oppgaver.](https://oppgaver.kidsakoder.no/python/diffie-hellman/diffie-hellman)
+- [ ] : Fargespill [Oppgaver.](https://oppgaver.kidsakoder.no/python/fargespill/fargespill)
+- [ ] : Gjettelek [Oppgaver.](https://oppgaver.kidsakoder.no/python/gjettelek/gjettelek)
+- [ ] : Hangman [Oppgaver.](https://oppgaver.kidsakoder.no/python/hangman/hangman)
+- [ ] : Hash-funksjoner [Oppgaver.](https://oppgaver.kidsakoder.no/python/hash-funksjoner/hash-funksjoner)
+- [ ] : Huskespill [Oppgaver.](https://oppgaver.kidsakoder.no/python/huskespill/huskespill)
+- [ ] : Kalkulator [Oppgaver.](https://oppgaver.kidsakoder.no/python/kalkulator/kalkulator)
+- [ ] : Lister og indekser [Oppgaver.](https://oppgaver.kidsakoder.no/python/lister_og_indekser/lister_og_indekser)
+- [ ] : PGZ, løpende strekman [Oppgaver.](https://oppgaver.kidsakoder.no/python/lopende_strekmann/lopende_strekmann)
+- [ ] : Ordbøker [Oppgaver.](https://oppgaver.kidsakoder.no/python/ordboeker/ordboeker)
+- [ ] : Primtall og effektivitet [Oppgaver.](https://oppgaver.kidsakoder.no/python/primtall/primtall)
+- [ ] : Regn med løkker [Oppgaver.](https://oppgaver.kidsakoder.no/python/regn_med_lokker/regn_med_lokker)
+- [ ] : Repetisjon [Oppgaver.](https://oppgaver.kidsakoder.no/python/repetisjon/repetisjon)
+- [ ] : Skilpaddefraktaler [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpaddefraktaler/skilpaddefraktaler)
+- [ ] : Skilpadder hele veien ned [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpadder_hele_veien/skilpadder_hele_veien)
+- [ ] : Tekst ABC [Oppgaver.](https://oppgaver.kidsakoder.no/python/tekst_abc/tekst_abc)
+- [ ] : Tilfeldige tall [Oppgaver.](https://oppgaver.kidsakoder.no/python/tilfeldige_tall/tilfeldige_tall)
+- [ ] : Tre på rad [Oppgaver.](https://oppgaver.kidsakoder.no/python/tre_pa_rad/tre_pa_rad)
+- [ ] : Tre på rad mot datamaskinen [Oppgaver.](https://oppgaver.kidsakoder.no/python/tre_pa_rad_mot_datamaskinen/tre_pa_rad_mot_datamaskinen)
