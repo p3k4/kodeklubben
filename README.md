@@ -60,3 +60,11 @@
 - [ ] : Tilfeldige tall [Oppgaver.](https://oppgaver.kidsakoder.no/python/tilfeldige_tall/tilfeldige_tall)
 - [ ] : Tre på rad [Oppgaver.](https://oppgaver.kidsakoder.no/python/tre_pa_rad/tre_pa_rad)
 - [ ] : Tre på rad mot datamaskinen [Oppgaver.](https://oppgaver.kidsakoder.no/python/tre_pa_rad_mot_datamaskinen/tre_pa_rad_mot_datamaskinen)
+
+**Ekspert Python (nivå 3+)**
+- [ ] - Enkle objekter [Oppgaver.](https://oppgaver.kidsakoder.no/python/enkle_objekter/enkle_objekter)
+- [ ] - PGZ, Hangman [Oppgaver.](https://oppgaver.kidsakoder.no/python/hangman2/hangman2)
+- [ ] - Kryptonøtt [Oppgaver.](https://oppgaver.kidsakoder.no/python/kryptonott/kryptonott)
+- [ ] - Trygg lagring av passord [Oppgaver.](https://oppgaver.kidsakoder.no/python/passordlagring/passordlagring)
+- [ ] - Skilpaddetekst [Oppgaver.](https://oppgaver.kidsakoder.no/python/skilpaddetekst/skilpaddetekst)
+- [ ] - PGZ, Sprettball [Oppgaver.](https://oppgaver.kidsakoder.no/python/sprettball/sprettball)
